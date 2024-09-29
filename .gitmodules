@@ -1,0 +1,6 @@
+[submodule "backend-spring"]
+	path = backend-spring
+	url = https://github.com/gergefis/backend-spring.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/gergefis/frontend.git
